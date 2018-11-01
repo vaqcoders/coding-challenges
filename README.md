@@ -1,6 +1,11 @@
 # Vaqcoders Coding Challenges
 Coding Challenges for the Rancho Alamitos Highschool Vaqcoders.
 
+## Stats:
+[![GitHub stars](https://img.shields.io/github/stars/vaqcoders/os.svg?style=social&label=Stars)](https://github.com/vaqcoders/coding-challenges)
+[![GitHub watchers](https://img.shields.io/github/watchers/vaqcoders/coding-challenges.svg?style=social&label=Watch)](https://github.com/vaqcoders/coding-challenges)
+[![GitHub followers](https://img.shields.io/github/followers/vaqcoders.svg?style=social&label=Follow)](https://github.com/vaqcoders)
+
 ## Coding Challenges:
 1. [10Print Pattern](1/README.md)
 1. [Face Challenge](2/README.md)
