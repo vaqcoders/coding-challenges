@@ -3,6 +3,7 @@ Coding Challenges for the Rancho Alamitos Highschool Vaqcoders
 
 ## Coding Challenges:
 1. [10Print Pattern](1/README.md)
+1. [Face Challenge](2/README.md)
 
 ## Rules:
 * No sharing code; fairness is bestest.
