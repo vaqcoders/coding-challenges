@@ -1,5 +1,5 @@
 # Vaqcoders Coding Challenges
-Coding Challenges for the Rancho Alamitos Highschool Vaqcoders.
+Coding Challenges for the Rancho Alamitos Highschool Vaqcoders
 
 ## Stats:
 [![GitHub stars](https://img.shields.io/github/stars/vaqcoders/os.svg?style=social&label=Stars)](https://github.com/vaqcoders/coding-challenges)
