@@ -1,5 +1,5 @@
 # Vaqcoders Coding Challenges
-Coding Challenges for the Rancho Alamitos Highschool Vaqcoders
+Coding Challenges for the Rancho Alamitos Highschool Vaqcoders.
 
 ## Coding Challenges:
 1. [10Print Pattern](1/README.md)
