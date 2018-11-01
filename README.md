@@ -2,7 +2,7 @@
 Coding Challenges for the Rancho Alamitos Highschool Vaqcoders.
 
 ## Stats:
-[![GitHub stars](https://img.shields.io/github/stars/vaqcoders/os.svg?style=social&label=Stars)](https://github.com/vaqcoders/coding-challenges)
+[![GitHub stars](https://img.shields.io/github/stars/vaqcoders/coding-challenges.svg?style=social&label=Stars)](https://github.com/vaqcoders/coding-challenges)
 [![GitHub watchers](https://img.shields.io/github/watchers/vaqcoders/coding-challenges.svg?style=social&label=Watch)](https://github.com/vaqcoders/coding-challenges)
 [![GitHub followers](https://img.shields.io/github/followers/vaqcoders.svg?style=social&label=Follow)](https://github.com/vaqcoders)
 
