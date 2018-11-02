@@ -1,4 +1,4 @@
-# 10Print Pattern
+# Face Challenge
 10/31/18
 
 ---
