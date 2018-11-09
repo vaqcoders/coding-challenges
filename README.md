@@ -17,6 +17,6 @@ Coding Challenges for the Rancho Alamitos Highschool Vaqcoders.
 
 ## VaqPoints:
 
-| n | name | points |
-|---|---------|--------|
-| 1 | Richard | 3 |
+| # | name | portfolio | points |
+|---|---|---|---|
+| 1 | Richard | [10Print Pattern](https://editor.p5js.org/FileXX44/sketches/BJhJdofTm), [Face Challenge](https://editor.p5js.org/FileXX44/sketches/H1xm3tf67) | 6 |
