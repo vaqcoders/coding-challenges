@@ -13,7 +13,7 @@ Coding Challenges for the Rancho Alamitos Highschool Vaqcoders.
 ## Rules:
 * No sharing code; fairness is bestest.
 * The first Vaqcoder to solve the challenge will get 3 points, the second will get 2 points, and the third to finish will get 1 point.
-* Have fun! It is okay to ask struggle a little and it is okay to ask for help the officers if you have any questions.
+* Have fun! It is okay to struggle a little and it is okay to ask for help the officers if you have any questions.
 
 ## VaqPoints:
 
