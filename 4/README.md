@@ -2,5 +2,5 @@
 1/14/19
 
 ## Instructions:
-Preview the demo [here](https://htmlpreview.github.io/?https://github.com/vaqcoders/coding-challenges/blob/master/4/snake/index.html).
+Preview the demo [here](https://vaqcoders.github.io/coding-challenges/4/snake/).
 Further instructions are TBD.
