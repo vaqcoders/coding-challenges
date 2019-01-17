@@ -4,7 +4,7 @@
 ## Instructions:
 Preview the demo [here](https://vaqcoders.github.io/coding-challenges/4/snake/).
 
-Your goal is to edit the [ai.js file](snake/ai%20%5BCOME%20HERE%5D.js) to create two functions that will make the snake operate autonomously using an artificial intelligence strategy with your own logic.
+Your goal is to edit the [ai.js file](snake/ai%20%5BCOME%20HERE%5D.js) to create two functions that will make the snake operate autonomously using an artificial intelligence strategy with your own logic. See the [VaqBot ReadMe](https://github.com/vaqcoders/vaqbot#how-to-update-on-github-desktop) for instructions on how to set your computer up for programming with JavaScript.
 
 The first function is named `locateNearestFood()` and it takes two arguments: `snake`, which is an instance of the `Snake` class (see [snake.js](snake/snake.js)), and `foods`, which is an instance of the `Foods` class (also see [snake.js](snake/snake.js)). Using the available data from these two arguments, return a `Segment` instance (behaves like a vector) from `foods.data` that you find appropriate.
 
