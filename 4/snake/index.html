@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Snake AI Challenge</title>
     <script src="lib/p5.min.js"></script>
     <script src="lib/p5.dom.min.js"></script>
     <script src="lib/p5.sound.min.js"></script>
@@ -13,7 +14,7 @@
       #canvas-container {
         text-align: center;
       }
-      h1, h2, a {
+      h1, h2, a, p {
         text-align: center;
         color: white;
       }
@@ -21,16 +22,25 @@
   </head>
   <body>
 
-    <table align="center">
+    <table align="center" width="75%">
       <tr>
-        <td>
+        <td align="center">
           <h1>Snake AI Challenge</h1>
           <h2>
             <a href="https://github.com/EthanThatOneKid">EthanThatOneKid</a>
           <h2>
           <h2 id="score"></h2>
+          <h2 id="average-score"></h2>
+          <p>
+            <input id="autoplay" type="checkbox" checked>
+            <label for="autoplay">Autoplay</label>
+          </p>
+          <p>
+            <input id="aiplay" type="checkbox" checked>
+            <label for="aiplay">AI play</label>
+          </p>
         </td>
-        <td>
+        <td align="center">
           <div id="canvas-container"></div>
         </td>
       </tr>

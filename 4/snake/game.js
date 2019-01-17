@@ -14,7 +14,7 @@ class Game {
       y: Math.floor(boundsY * 0.5)
     }, this.bounds);
     this.foods = new Foods(this.bounds);
-    this.foods.spawn(10);
+    this.foods.spawn(10, this.snake);
     this.aiOn = aiOn;
     this.gameover = false;
   }
@@ -31,7 +31,7 @@ class Game {
       if (food.pos.x == x && food.pos.y == y) {
         this.snake.eat();
         this.foods.despawn(i);
-        this.foods.spawn();
+        this.foods.spawn(1, this.snake);
       }
     });
     this.snake.update();

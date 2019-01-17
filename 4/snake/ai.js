@@ -1,3 +1,6 @@
+// THIS IS ETHAN DAVIDSON'S ATTEMPT AT A SNAKE AI
+// REFER TO THIS FILE FOR INSPIRATION OR TO CHECK YOUR SYNTAX
+
 class AI {
 
   static locateNearestFood(snake, foods) {

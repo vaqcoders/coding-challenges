@@ -55,6 +55,15 @@ class Snake {
     return false;
   }
 
+  isInsideMe(food) {
+    const x1 = food.pos.x, y1 = food.pos.y;
+    for (let segment of this.tail) {
+      const x2 = segment.pos.x, y2 = segment.pos.y;
+      if (x1 == x2 && y1 == y2) return true;
+    }
+    return false;
+  }
+
 }
 
 class Segment {
@@ -82,9 +91,9 @@ class Foods {
     this.bounds = bounds;
   }
 
-  spawn(n = 1) {
+  spawn(n = 1, snake) {
     for (let i = 0; i < n; i++)
-      this.data.push(this.createRandomFood());
+      this.data.push(this.createRandomFood(snake));
   }
 
   despawn(i) {
@@ -103,11 +112,17 @@ class Foods {
     }
   }
 
-  createRandomFood() {
-    return new Segment({
-      x: Math.floor(this.bounds.x * Math.random()),
-      y:Math.floor(this.bounds.y * Math.random())
-    });
+  createRandomFood(snake) {
+    const genFood = () => {
+      return new Segment({
+        x: Math.floor(this.bounds.x * Math.random()),
+        y: Math.floor(this.bounds.y * Math.random())
+      });
+    };
+    let gimmeFood = genFood();
+    while (snake.isInsideMe(gimmeFood))
+      gimmeFood = genFood();
+    return gimmeFood;
   }
 
 }
