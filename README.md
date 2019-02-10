@@ -12,6 +12,7 @@ Use the Internet as a tool. It is dangerous to go alone! Take [this](https://vaq
 1. [Face Challenge](2/README.md)
 1. [X-Mas Tree Challenge](3/README.md)
 1. [Snake AI](4/README.md)
+1. [Pig Latin Translator](5/README.md)
 
 ## Rules:
 * The first Vaqcoder to solve the challenge will get 5 points, the second will get 3 points, and the third to finish will get 2 points. Everybody else who finishes will get 1 point.
