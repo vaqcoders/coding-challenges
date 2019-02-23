@@ -8,11 +8,11 @@ Use the Internet as a tool. It is dangerous to go alone! Take [this](https://vaq
 [![GitHub followers](https://img.shields.io/github/followers/vaqcoders.svg?style=social&label=Follow)](https://github.com/vaqcoders)
 
 ## Coding Challenges:
-1. [10Print Pattern](1/README.md)
-1. [Face Challenge](2/README.md)
-1. [X-Mas Tree Challenge](3/README.md)
-1. [Snake AI](4/README.md)
-1. [Pig Latin Translator](5/README.md)
+1. [10Print Pattern](1/README.md) ![medium](https://img.shields.io/badge/difficulty-medium-yellow.svg)
+1. [Face Challenge](2/README.md) ![easy](https://img.shields.io/badge/difficulty-easy-green.svg)
+1. [X-Mas Tree Challenge](3/README.md) ![easy](https://img.shields.io/badge/difficulty-easy-green.svg)
+1. [Snake AI](4/README.md) ![hard](https://img.shields.io/badge/difficulty-hard-red.svg)
+1. [Pig Latin Translator](5/README.md) ![medium](https://img.shields.io/badge/difficulty-medium-yellow.svg)
 
 ## Rules:
 * The first Vaqcoder to solve the challenge will get 5 points, the second will get 3 points, and the third to finish will get 2 points. Everybody else who finishes will get 1 point.
