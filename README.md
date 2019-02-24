@@ -19,6 +19,10 @@ Use the Internet as a tool. It is dangerous to go alone! Take [this](https://vaq
 * Have fun! It is okay to struggle a little and it is okay to ask for help the officers if you have any questions.
 
 ## VaqPoints:
-| # | name | portfolio | points |
+### 2019
+| points | name | portfolio |
 |---|---|---|---|
-| 1 | Richard | [10Print Pattern](https://editor.p5js.org/FileXX44/sketches/BJhJdofTm), [Face Challenge](https://editor.p5js.org/FileXX44/sketches/H1xm3tf67) | 6 |
+| 6 | Richard | [10Print Pattern](https://editor.p5js.org/FileXX44/sketches/BJhJdofTm), [Face Challenge](https://editor.p5js.org/FileXX44/sketches/H1xm3tf67) |
+| 5 | Benson | [10Print Pattern](https://editor.p5js.org/19bphung@ggusd.net/sketches/tEOzr32Cn), [Pig Latin Translator](5/README.md) |
+| 2 | Van | [10Print Pattern](https://editor.p5js.org/20vvu5@ggusd.net/sketches/WVafKp5fu) |
+| 2 | Duc | [10Print Pattern](https://editor.p5js.org/ducvu0729@gmail.com/sketches/u-b94LiEw) |
