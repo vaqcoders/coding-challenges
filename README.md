@@ -23,7 +23,7 @@ Use the Internet as a tool. It is dangerous to go alone! Take [this](https://vaq
 ### 2019
 | points | name | portfolio |
 |---|---|---|
-| 6 | Richard | [10Print Pattern](https://editor.p5js.org/FileXX44/sketches/BJhJdofTm), [Face Challenge](https://editor.p5js.org/FileXX44/sketches/H1xm3tf67) |
-| 5 | Benson | [10Print Pattern](https://editor.p5js.org/19bphung@ggusd.net/sketches/tEOzr32Cn), [Pig Latin Translator](5/README.md) |
+| 9 | Richard | [10Print Pattern](https://editor.p5js.org/FileXX44/sketches/BJhJdofTm), [Face Challenge](https://editor.p5js.org/FileXX44/sketches/H1xm3tf67), [Grow Plant](https://editor.p5js.org/FileXX44/sketches/MXRV5HOKW) |
+| 8 | Benson | [10Print Pattern](https://editor.p5js.org/19bphung@ggusd.net/sketches/tEOzr32Cn), [Pig Latin Translator](https://editor.p5js.org/19bphung@ggusd.net/sketches/tanKIH4js), [Grow Plant](https://editor.p5js.org/19bphung@ggusd.net/sketches/v_qEZ4IZB) |
 | 2 | Van | [10Print Pattern](https://editor.p5js.org/20vvu5@ggusd.net/sketches/WVafKp5fu) |
 | 2 | Duc | [10Print Pattern](https://editor.p5js.org/ducvu0729@gmail.com/sketches/u-b94LiEw) |
