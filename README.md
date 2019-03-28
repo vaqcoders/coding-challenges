@@ -14,6 +14,7 @@ Use the Internet as a tool. It is dangerous to go alone! Take [this](https://vaq
 1. [Snake AI](4/README.md) ![hard](https://img.shields.io/badge/difficulty-hard-red.svg)
 1. [Pig Latin Translator](5/README.md) ![medium](https://img.shields.io/badge/difficulty-medium-yellow.svg)
 1. [To Grow a Plant](6/README.md) ![easy](https://img.shields.io/badge/difficulty-easy-green.svg)
+1. [Purple Rain](7/README.md) ![easy](https://img.shields.io/badge/difficulty-medium-yellow.svg)
 
 ## Rules:
 * The first Vaqcoder to solve the challenge will get 5 points, the second will get 3 points, and the third to finish will get 2 points. Everybody else who finishes will get 1 point.
