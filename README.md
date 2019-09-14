@@ -1,6 +1,6 @@
 # Vaqcoders Coding Challenges
 Coding Challenges for the Rancho Alamitos Highschool Vaqcoders.
-Use the Internet as a tool. It is dangerous to go alone! Take [this](https://vaqcoders.github.io/website/). It will deal 10 damage to all bug you encounter. Join the [Discord Server](https://discord.gg/DcPWdjY).
+Use the Internet as a tool. It is dangerous to go alone! Take [this](https://vaqcoders.github.io/). It will deal 10 damage to all bug you encounter. Join the [Discord Server](https://discord.gg/DcPWdjY).
 
 ## Stats:
 [![GitHub stars](https://img.shields.io/github/stars/vaqcoders/coding-challenges.svg?style=social&label=Stars)](https://github.com/vaqcoders/coding-challenges)
